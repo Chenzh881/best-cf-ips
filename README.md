@@ -4,11 +4,11 @@
 
 > [!IMPORTANT]  
 > **友情提示：**   
-> 优选域名 API 已迁移至新仓库 [best-cf-domains](https://github.com/LancelotRar/best-cf-domains)，**请尽快使用新仓库的 API 链接。**
+> 优选域名 API 已迁移至新仓库 [**best-cf-domains**](https://github.com/LancelotRar/best-cf-domains)，**请尽快使用新仓库的 API 链接。**
 
 > [!IMPORTANT]  
 > **更新历史**：  
-> 2026.9.11（**破坏性更新**，请尽快使用新 API 链接）  
+> 2026.9.11（**破坏性更新**，请尽快使用新 API 链接）：
 > - 聚合 API 文件名变更为：best-cf-ip-collected.txt   
 > - 独立 API 文件名变更为：best-cf-ip-scanned-top**.txt  
 
