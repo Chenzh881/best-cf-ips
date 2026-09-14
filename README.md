@@ -2,15 +2,20 @@
 
 ## 提供自动更新的 Cloudflare 优选 IP API，服务于 Cloudflare 免费代理搭建方案，优质 IP 即为优质节点。
 
-> [!IMPORTANT]  
-> **友情提示：**   
-> 优选域名 API 已迁移至新仓库 [**best-cf-domains**](https://github.com/LancelotRar/best-cf-domains)，**请尽快使用新仓库的 API 链接。**
-
-> [!IMPORTANT]  
-> **更新历史**：  
-> 2026.9.11（**破坏性更新**，请尽快使用新 API 链接）：
+> [!CAUTION]   
+> **破坏性更新历史，需尽快更新您的 API 链接**    
+> 2026.9.5  
+> - 优选域名 API 已迁移至新仓库 [**best-cf-domains**](https://github.com/LancelotRar/best-cf->domains)。  
+>
+> 2026.9.11  
 > - 聚合 API 文件名变更为：best-cf-ip-collected.txt   
-> - 独立 API 文件名变更为：best-cf-ip-scanned-top**.txt  
+> - 独立 API 文件名变更为：best-cf-ip-scanned-top**.txt   
+
+> [!NOTE]   
+> **中转站邀请注册链接，互有奖励**：  
+> - https://api.justwoker.icu/register?aff=Sp57  
+> - https://agentrouter.org/register?aff=R6aO  
+> - https://chat.b.ai/chat?invite_code=65TF6G  
 
 ## 项目说明
 
