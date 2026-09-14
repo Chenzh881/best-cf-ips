@@ -3,7 +3,7 @@
 ## 提供自动更新的 Cloudflare 优选 IP API，服务于 Cloudflare 免费代理搭建方案，优质 IP 即为优质节点。
 
 > [!CAUTION]   
-> **破坏性更新历史，需尽快更新您的 API 链接**    
+> **破坏性更新历史，需尽快更新您的 API 链接**：    
 > 2026.9.5  
 > - 优选域名 API 已迁移至新仓库 [**best-cf-domains**](https://github.com/LancelotRar/best-cf->domains)。  
 >
