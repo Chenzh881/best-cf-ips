@@ -41,17 +41,8 @@
 
 ## API 详情
 
-- API 更新日期以实际结果为准。
-- **示例内容不要导入任何工具，请使用 API 链接。**
+- 内容示例（**示例内容不要导入任何工具，请使用 API 链接**。）
 
-### 聚合 API
-
-- **每 3 小时更新**。
-- 为多个公开或开源 Cloudflare 优选 IP 项目进行**聚合&去重&加国家区域标注&加旗帜**
-```
-https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-collected.txt
-```
-- 内容示例
 ```txt
 # 91 best ips collected at 2026-09-11 00:42
 104.17.212.191:443#US 🇺🇸
@@ -63,50 +54,58 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-collec
 203.69.11.79:443#TW 🇹🇼
 ···
 ```
-- 经代理客户端解析后，节点名称将显示**国家代码**以及**国旗**。点击图片查看清晰大图。
+
+- IP 更新时间以实际结果为准，在 API 内容**第一行**有明确标注。
+
+- IP 经 [**Cmliu/edgetunnel**](https://github.com/cmliu/edgetunnel) 转换后将成为代理节点，再经代理客户端解析，节点名称将显示**国家代码**以及**国旗**。点击图片查看清晰大图。
 
 <p align="center">
   <img src="src/phone1.png" alt="效果图" width="150" height="240"><img src="src/phone2.png" alt="效果图" width="150" height="240"><img src="src/phone3.png" alt="效果图" width="150" height="240"><img src="src/PC.png" alt="效果图" width="430" height="240">
 </p>
 
+### 聚合 API
+
+- **每 3 小时更新**。
+- 为多个公开或开源 Cloudflare 优选 IP 项目进行**聚合&去重&加国家区域标注&加旗帜**
+```
+https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-collected.txt
+```
+
 ### 独立 API
 
 - **每 3 小时更新，按延迟排序**。
 - **有国家区域、旗帜标注。**
-- best-cf-ip-scanned-top20 包含 20 个优选 IP。
-- best-cf-ip-scanned-top50 包含 50 个优选 IP，包含 best-cf-ip-scanned-top20 。
-- best-cf-ip-scanned-top100 包含 100 个优选 IP，包含 best-cf-ip-scanned-top50 。
-- best-cf-ip-scanned-top200 包含 200 个优选 IP，包含 best-cf-ip-scanned-top100 。
-- best-cf-ip-scanned-top400 包含 400 个优选 IP，包含 best-cf-ip-scanned-top200 。
 - **选任一档即可，多选重复，没有必要**。
+
+1. best-cf-ip-scanned-top20 包含 20 个优选 IP。
 
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top20.txt
 ```
+
+2. best-cf-ip-scanned-top50 包含 50 个优选 IP，向上包含。
+
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top50.txt
 ```
+
+3. best-cf-ip-scanned-top100 包含 100 个优选 IP，向上包含。
+
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top100.txt
 ```
+
+4. best-cf-ip-scanned-top200 包含 200 个优选 IP，向上包含。
+
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top200.txt
 ```
+
+5. best-cf-ip-scanned-top400 包含 400 个优选 IP，向上包含。
+
 ```
 https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top400.txt
 ```
-- 内容示例
-```txt
-# 50 best cf ips scanned at 2026-09-11 03:39
-162.159.44.202:443#JP 🇯🇵
-104.18.44.122:443#SG 🇸🇬
-104.17.153.177:443#US 🇺🇸
-172.64.151.183:443#SG 🇸🇬
-162.159.24.27:443#SG 🇸🇬
-104.18.38.13:443#SG 🇸🇬
-···
-```
-- 经代理客户端解析后，节点名称将同样显示**国家代码**以及**国旗**。与聚合 API 显示效果一致。
 
 ---
 
