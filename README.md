@@ -13,10 +13,10 @@
 
 > [!NOTE]   
 > **中转站邀请注册链接，可白嫖大模型，注册互有奖励**：  
-> - https://api.justwoker.icu/register?aff=Sp57  
-> - https://agentrouter.org/register?aff=R6aO  
-> - https://chat.b.ai/chat?invite_code=65TF6G  
-> - https://y-api.bestvirtualgoods.com/i/7N5KJG8Y  
+> - ~~https://api.justwoker.icu/register?aff=Sp57~~
+> - https://agentrouter.org/register?aff=R6aO
+> - https://chat.b.ai/chat?invite_code=65TF6G
+> - https://y-api.bestvirtualgoods.com/i/7N5KJG8Y
 
 ## 项目说明
 
