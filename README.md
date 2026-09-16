@@ -129,4 +129,12 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanne
 
 ## 项目热度
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LancelotRar/best-cf-ips&type=Date)](https://www.star-history.com/#LancelotRar/best-cf-ips&Date)
+<p align="center">
+<a href="https://www.star-history.com/?repos=lancelotrar%2Fbest-cf-ips&type=timeline&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=lancelotrar/best-cf-ips&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=lancelotrar/best-cf-ips&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=lancelotrar/best-cf-ips&type=date&legend=top-left" />
+ </picture>
+</a>
+</p>
