@@ -35,8 +35,6 @@
   <img src="src/IN-EDT.png" alt="效果图">
 </p>
 
-
-
 ## 项目初衷
 
 - 为优选 IP 建立**国家区域、旗帜**标识，有助于按国家区域筛选 CF 节点。如使用 Mihomo 代理客户端，可按节点的国家区域建立策略组。并使用 Url-test 策略，仅在该区域内变动节点IP，缓解 CF 节点 IP 变动带来的负面影响。如 Telegram 新账号养号期，节点IP变动频繁、区域位置变动过大，或将引发账号风控。其它代理客户端同理，需自行设置。对其它有IP风控策略的互联网服务，亦有帮助。
@@ -131,7 +129,4 @@ https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanne
 
 ## 项目热度
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="src/star-history-dark.svg">
-  <img src="src/star-history-light.svg" alt="Star History">
-</picture>
+[![Star History Chart](https://api.star-history.com/svg?repos=LancelotRar/best-cf-ips&type=Date)](https://www.star-history.com/#LancelotRar/best-cf-ips&Date)
